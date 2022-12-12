@@ -1,2 +1,2 @@
 # images (mainly logos) for supporting my code
-NOT MINE!
+NOT MINE except *.jpeg files!
