@@ -1,2 +1,3 @@
 # images (mainly logos) for supporting my code
-NOT MINE except *.jpeg files!
+icons and logos are NOT MINE!
+Other files like *.jpeg files are mine!
